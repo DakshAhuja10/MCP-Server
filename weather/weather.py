@@ -2,8 +2,21 @@ from typing import Any
 import httpx
 from mcp.server.fastmcp import FastMCP
 
+
+# {
+#   "mcpServers": {
+#     "weather": {
+#       "command": "python",
+#       "args": [
+#         "C:\\Users\\hp\\Downloads\\MCP SERVER\\MCP-Server-2\\weather\\weather.py"
+#       ]
+#     }
+#   }
+# }
+
 # Initialize FastMCP server
 mcp = FastMCP("weather")
+app=mcp
 
 # Constants
 NWS_API_BASE = "https://api.weather.gov"
