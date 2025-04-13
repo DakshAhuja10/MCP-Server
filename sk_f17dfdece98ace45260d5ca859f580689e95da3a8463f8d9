@@ -1,2 +1,2 @@
- ELEVENLABS_API_KEY=PUT_YOUR_KEY_HERE
+ ELEVENLABS_API_KEY=sk_f17dfdece98ace45260d5ca859f580689e95da3a8463f8d9
  ELEVENLABS_MCP_BASE_PATH=~/Desktop #optional base path for output files
