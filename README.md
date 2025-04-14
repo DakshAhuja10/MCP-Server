@@ -13,9 +13,14 @@ For Building Whatsapp MCP Server
 4.Install UV (Python package manager) ![image](https://github.com/user-attachments/assets/c7c304ed-31a8-4652-86e9-2aba3c79fda8)
 
 
-5.FFmpeg (optional) - Only needed for audio messages. If you want to send audio files as playable WhatsApp voice messages, they must be in .ogg Opus format. With FFmpeg installed, the MCP server will automatically convert non-Opus audio files. Without FFmpeg, you can still send raw audio files using the send_file tool.
+5.FFmpeg (optional) - Only needed for audio messages. If you want to send audio files as playable WhatsApp voice messages, they must be in .ogg Opus format. With FFmpeg installed, the MCP server will automatically convert non-Opus audio files. Without FFmpeg, you can still send raw audio files using the send_file tool.Link provided below
 
-File Provided above.
+https://www.gyan.dev/ffmpeg/builds/
+
+Scroll Down to Release Builds and use click on ffmpeg-release-full.7z 
+
+![image](https://github.com/user-attachments/assets/d964c675-6362-47fc-8f3e-60c0df595d0b)
+
 
 For Building ElevenLabs MCP Server
 1.Get your API key from ElevenLabs.
