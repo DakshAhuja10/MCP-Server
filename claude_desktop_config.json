@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "ElevenLabs": {
+      "command": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+      "args": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\elevenlabs_mcp\\server.py"
+      ],
+      "env": {
+        "ELEVENLABS_API_KEY": "sk_f17dfdece98ace45260d5ca859f580689e95da3a8463f8d9"
+      }
+    },
+    "whatsapp": {
+      "command": "C:\\Users\\hp\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:\\Users\\hp\\Downloads\\MCP\\FinalMcpServer\\whatsapp-mcp\\whatsapp-mcp-server",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
