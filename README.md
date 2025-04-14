@@ -22,9 +22,13 @@ Scroll Down to Release Builds and use click on ffmpeg-release-full.7z
 ![image](https://github.com/user-attachments/assets/d964c675-6362-47fc-8f3e-60c0df595d0b)
 
 
-For Building ElevenLabs MCP Server
+# For Building ElevenLabs MCP Server
+
 1.Get your API key from ElevenLabs.
-2.Install UV ![image](https://github.com/user-attachments/assets/feef6fb5-f750-4cd4-a5b3-c67799ae74fc)
+
+2.Install UV
+
+![image](https://github.com/user-attachments/assets/feef6fb5-f750-4cd4-a5b3-c67799ae74fc)
 
 
 # Steps-
